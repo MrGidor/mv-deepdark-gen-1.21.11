@@ -1,5 +1,5 @@
 name: DeepDarkWorld
-version: 1.0.0
+version: 1.0.1
 main: gidor.deepdarkgen.deepdarkgen
 api-version: '1.21'
 description: Custom world generator with full Deep Dark biome injection.
